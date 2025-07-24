@@ -19,7 +19,7 @@ Built with **Next.js**, **TypeScript**, **MongoDB**, and **Clerk Authentication*
 
 ## 🌍 Live Preview
 
-🔗 https://tech-startup-nu.vercel.app
+🔗 [Visit Website](https://tech-startup-nu.vercel.app)
 
 ---
 
